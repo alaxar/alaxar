@@ -5,5 +5,4 @@
 
 - 🔭 I’m currently working on my Operating System
 - 👯 I’m looking for collaboration on my Operating System
-- 💬 Ask me about anything programming 
 - 📫 How to reach me: alazardemessie17@gmail.com
