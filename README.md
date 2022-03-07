@@ -1,4 +1,4 @@
-### Hi there 👋 ### WELCOME TO MY GITHUB PROFILE FEEL FREE TO CLONE MY PROJECTS
+### Hi there 👋 WELCOME TO MY GITHUB PROFILE FEEL FREE TO CLONE MY PROJECTS
 
 ![Alazar Image](https://github.com/alaxar/alaxar/blob/main/ezgif.com-crop.gif)
 
