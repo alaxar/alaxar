@@ -1,6 +1,6 @@
 ### Hi there 👋 ### WELCOME TO MY GITHUB PROFILE FEEL FREE TO CLONE MY PROJECTS
 
-![Alazar Image](https://avatars.githubusercontent.com/u/20353178?v=4)
+![Alazar Image](https://github/alaxa/alaxar/ezgif-4-4837a66032.gif)
 
 
 - 🔭 I’m currently working on my Operating System
